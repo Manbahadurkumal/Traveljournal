@@ -1,0 +1,22 @@
+.Top{
+  background-color: #f55a5a;
+  color: aliceblue;
+}
+.card--image {
+  width: 300px;
+  border-radius: 9px;
+  height: 200px;
+  object-fit: cover;
+}
+.Bottom{
+  background-color: #f55a5a;
+  color: aliceblue;
+}
+.card {
+  font-size: 14px;
+  border: none;
+}
+.CompanyName{
+  font-weight: 700;
+  font-size: 30px;
+}
